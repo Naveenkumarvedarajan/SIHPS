@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:12/05/24
-## Register Number:
-## Name:
+## Register Number:212223230140
+## Name: Naveen kumar V
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
