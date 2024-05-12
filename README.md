@@ -15,8 +15,8 @@ The website will serve as a platform connecting individuals and businesses looki
 
 
 ## Proposed Solution / Architecture Diagram
+![pg](https://github.com/Naveenkumarvedarajan/SIHPS/assets/147140428/a7f81daf-4f6d-42a6-b058-bfce57845f6c)
 
-![image](https://github.com/Naveenkumarvedarajan/SIHPS/assets/147140428/d9027f31-2430-4006-b64c-926a7d7aa50a)
 
 
 ## Use Cases
